@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Согласие на обработку персональных данных — Розов-Сервис</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    margin: 20mm 15mm;
+    line-height: 1.55;
+    color: #1a1a1a;
+  }
+  h1 { font-size: 16pt; text-align: center; font-weight: bold; margin-bottom: 4px; }
+  .subheader { text-align: center; font-size: 12pt; margin-bottom: 20px; }
+  p { margin-bottom: 12px; text-align: justify; }
+  .links {
+    margin-top: 16px;
+    padding-top: 12px;
+    border-top: 1px solid #ccc;
+    font-size: 11pt;
+  }
+  .links p { margin-bottom: 4px; }
+  @media print { body { margin: 18mm 15mm; } }
+</style>
+</head>
+<body>
+
+<h1>СОГЛАСИЕ НА ОБРАБОТКУ ПЕРСОНАЛЬНЫХ ДАННЫХ</h1>
+<div class="subheader">Версия 0.0.1 от 09.09.2026</div>
+
+<p>Я даю согласие на обработку моих персональных данных (ФИО, дата рождения, телефон, юзернейм, паспортные данные, ИНН, налоговый статус, реквизиты для оплаты, фото паспорта и селфи, платёжные документы) ИП Атрощенкову Дмитрию Витальевичу (ИНН 227220397585) — «Оператору» (в Публичной Оферте — «Платформа») — в целях исполнения договора оферты, налогового учёта Оператора и соблюдения 115-ФЗ, включая передачу третьим лицам в этих же целях и в соответствии с требованиями законодательства РФ, действующее до отзыва, после которого данные хранятся в течение сроков, установленных законодательством РФ и договором оферты, для исполнения договора оферты и защиты интересов Оператора и Пользователей, подтверждаю что ознакомлен с Политикой обработки персональных данных, а предоставляемые мною данные достоверны, понимаю, что отозвать согласие я могу в порядке, предусмотренном офертой и Политикой обработки персональных данных.</p>
+
+<div class="links">
+  <p>Публичная оферта: https://jindogggg.github.io/docs/oferta.html</p>
+  <p>Политика обработки персональных данных: https://jindogggg.github.io/docs/policy.html</p>
+</div>
+
+</body>
+</html>
